@@ -1,4 +1,4 @@
-# Application Developer
+# Application Developer |
 
 #### Technical Skills: Swift, VB.Net, SQL Server
 
