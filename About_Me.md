@@ -1,3 +1,5 @@
+![About William Morris logo](portfolio/assets/headshot-free.jpg)
+
 # About Me
 ***
 
