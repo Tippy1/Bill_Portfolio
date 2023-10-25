@@ -1,4 +1,4 @@
-[About Me](Portfolio/About_Me.md)
+[About Me](/About_Me.md)
 
 # Application Developer
 ***
