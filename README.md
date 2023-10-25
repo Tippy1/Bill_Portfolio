@@ -1,4 +1,6 @@
-# Bill_Portfolio
+# William Morris, Application Developer
+
+#### Technical Skills: Swift, VB.Net, SQL Server
 
 ### Education
 Swift Coding and App Development Certificate, The Ohio State University
