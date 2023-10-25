@@ -1,4 +1,4 @@
-![About William Morris logo](portfolio/assets/headshot-free.jpg)
+![About William Morris logo](/assets/headshot-free.jpg)
 
 # About Me
 ***
