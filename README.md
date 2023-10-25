@@ -31,3 +31,16 @@ Created an application that enables the user to cycle between various photos.
 ### Amateur Radio Tutorial
 
 Created an amateur radio tutorial.
+
+### Basic Interactions
+
+Created an application with two buttons that, when tapped, changed the contents of a label.
+
+### Calculator
+
+Created a calculator application.
+
+### Apple Pie
+
+Created a word-guessing game, where each player has a limited number of turns to guess the letters in a word.
+
